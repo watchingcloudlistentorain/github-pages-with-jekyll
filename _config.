@@ -1,3 +1,7 @@
+---
+title: "龚晓雨"
+date: 2021-04-29
+---
 
 title: Your awesome title
 author: GitHub User
@@ -13,7 +17,3 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
----
-title: "龚晓雨"
-date: YYY1-04-29
----
