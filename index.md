@@ -1,4 +1,8 @@
 ---
+title: "龚晓雨"
+date: YYY1-04-29
+---
+---
 title: "Welcome to my blog"
 ---
 
